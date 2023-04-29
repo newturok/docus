@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Директорат електронних реєстрів',
-  tagline: 'Держава працює, якщо реєстри працюють',
+  tagline: 'Реєстри означають, що держава функціонує',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
