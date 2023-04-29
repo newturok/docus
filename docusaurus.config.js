@@ -74,9 +74,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Напрямки діяльності',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Блог', position: 'left'},
           {
             href: 'https://thedigital.gov.ua/',
             label: 'Мінцифри',
